@@ -6,13 +6,14 @@ const RESOURCES = [
     helplines: [
       {
         name: 'National Suicide Prevention Lifeline',
-        number: '988',
+        number: '1800-5990019',
         description: '24/7 free and confidential support for people in distress',
         available: '24/7',
       },
       {
         name: 'Crisis Text Line',
-        number: 'Text HOME to 741741',
+        number: 'Text HOME to 
+          ',
         description: 'Free, 24/7 crisis support via text message',
         available: '24/7',
       },
